@@ -1,0 +1,5 @@
+1;Lanche a;12.0
+2;Lanche b;25.0
+3;Lanche c;45.0
+4;Lanche d;55.0
+5;coxinha;2.0
